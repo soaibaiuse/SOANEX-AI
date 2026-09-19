@@ -1,0 +1,7 @@
+{
+  "name": "SOANEX AI",
+  "description": "“Your AI, Your Way.” Modern, intelligent, modular AI assistant with Chat, Personal Memory, Image Generator, Voice, Web Search, Documents, Coding & Study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
